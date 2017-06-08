@@ -1,0 +1,38 @@
+html, body {
+  background: #333333;
+  color: #EEEEEE;
+  text-shadow: 0 0 5px #333333;
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  align-content: center;
+  justify-content: center;
+  background: url(../img/b8hGCbV.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+p {
+  font-size: 10vw;
+  line-height: 10vw;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  background-size: 100px;
+  height: 100px;
+  width: 100px;
+  color: white;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  font-size: 7em;
+  text-decoration: none;
+  line-height: 1em;
+}
